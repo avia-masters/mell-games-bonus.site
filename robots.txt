@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mell-games-bonus.site/sitemap.xml
